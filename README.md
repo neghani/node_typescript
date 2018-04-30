@@ -1,4 +1,4 @@
-# Typescript For Node
+# TypeScript with Node.js
 The aim of the article is to build, structure, test and debug a Node.js application in TypeScript.
 
 ## Why there is a need of Typescript over Vanilla JavaScript
@@ -12,7 +12,7 @@ This is where TypeScript comes into the picture. TypeScript is a typed superset 
 ## The benefits of using TypeScript
 TypeScript is a superset of Javascript. It gives you the following benefits:
 
-* optional static typing, with emphasis on optional (it makes porting JavaScript application to TypeScript easy),
-* as a developer, you can start using ECMAScript features that are not supported by the current V8 engine by using build targets,
-* use of interfaces,
-* great tooling with instruments like IntelliSense.
+* Optional static typing, with emphasis on optional (it makes porting JavaScript application to TypeScript easy),
+* As a developer, you can start using ECMAScript features that are not supported by the current V8 engine by using build targets,
+* Use of interfaces,
+* Great tooling with instruments like IntelliSense.
