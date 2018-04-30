@@ -9,7 +9,7 @@ This is where TypeScript comes into the picture. TypeScript is a typed superset 
 * what TypeScript is
 * What are the benefits of using Typescript
 * How you can set up a project to start developing using it
-# The benefits of using TypeScript
+## The benefits of using TypeScript
 TypeScript is a superset of Javascript. It gives you the following benefits:
 
 * optional static typing, with emphasis on optional (it makes porting JavaScript application to TypeScript easy),
